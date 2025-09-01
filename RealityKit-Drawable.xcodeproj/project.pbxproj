@@ -26,22 +26,9 @@
 		C698BC412E65AB3500067BE8 /* RealityKit-DrawableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RealityKit-DrawableTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C698BC472E65AB3500067BE8 /* Exceptions for "RealityKit-Drawable" folder in "RealityKit-Drawable" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = C698BC2E2E65AB3300067BE8 /* RealityKit-Drawable */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C698BC312E65AB3300067BE8 /* RealityKit-Drawable */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C698BC472E65AB3500067BE8 /* Exceptions for "RealityKit-Drawable" folder in "RealityKit-Drawable" target */,
-			);
 			path = "RealityKit-Drawable";
 			sourceTree = "<group>";
 		};
